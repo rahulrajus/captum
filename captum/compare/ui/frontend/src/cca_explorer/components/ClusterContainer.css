@@ -1,0 +1,20 @@
+.cluster-img {
+    position: absolute;
+    width: 700px;
+    height: 800px;
+    z-index: 1;
+}
+
+.cluster-container {
+    display:inline-block;
+    width:700px;
+    height:700px;
+    margin: 0 auto;
+    background: black;
+    position:relative;
+}
+
+.rect-canvas {
+    position: relative;
+    z-index: 20;
+}
